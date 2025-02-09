@@ -1,7 +1,5 @@
 # About
 
-## Math Helper App
-
 The Math Helper App is designed to assist Singapore primary and secondary school students who struggle with math. This app helps you solve word problems and generates similar problems to help you master the concepts.
 
 ## Features
