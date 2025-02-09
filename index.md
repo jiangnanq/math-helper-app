@@ -9,6 +9,6 @@ This app is designed to assist Singapore primary and secondary school students w
 - Generate similar problems for practice
 - Improve math skills through practice and repetition
 
-For more information, please visit our [About](about.html), [Help](help.html), and [Legal](legal.html) pages.
+For more information, please visit our [About](About.html), [Help](Help.html), and [Legal](Legal.html) pages.
 
 If you need assistance, please visit our [Help](help.html) page.
