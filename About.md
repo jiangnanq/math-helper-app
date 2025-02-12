@@ -11,3 +11,4 @@ Tired of numbers making your brain do the cha-cha? Enter MathForSilly - the app 
 ## Contact
 
 For more information, please contact us at [support@mathhelperapp.com](mailto:support@mathhelperapp.com).
+[Homepage](https://jiangnanq.github.io/math-helper-app/)
