@@ -1,7 +1,7 @@
 
-# Welcome to the Math Helper App!
+# Welcome
 
-This app is designed to assist Singapore primary and secondary school students who struggle with math. It helps you solve word problems and generates similar problems to help you master the concepts.
+Tired of numbers making your brain do the cha-cha? Enter MathForSilly - the app where math problems go to get a makeover! Snap a pic of any math headache, and let us do the heavy lifting. We'll spit out the answer, show you how to get there (because magic, right?), and throw in five more problems for you to laugh at... or learn from, if you must. Whether you're a student playing hooky or a parent pretending to remember algebra, MathForSilly turns math into a comedy show. Download now, because who said numbers can't be funny?
 
 ## Features
 
